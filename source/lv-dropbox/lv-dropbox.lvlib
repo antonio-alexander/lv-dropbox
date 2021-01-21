@@ -35,6 +35,7 @@
 			<Item Name="authorization.vi" Type="VI" URL="../private/_subvis/authorization.vi"/>
 			<Item Name="authorization_basic.vi" Type="VI" URL="../private/_subvis/authorization_basic.vi"/>
 			<Item Name="content_type.vi" Type="VI" URL="../private/_subvis/content_type.vi"/>
+			<Item Name="encode_url_parameters.vi" Type="VI" URL="../private/_subvis/encode_url_parameters.vi"/>
 			<Item Name="make_code_verifier.vi" Type="VI" URL="../private/_subvis/make_code_verifier.vi"/>
 			<Item Name="parse_header.vi" Type="VI" URL="../private/_subvis/parse_header.vi"/>
 			<Item Name="set_headers.vi" Type="VI" URL="../private/_subvis/set_headers.vi"/>
