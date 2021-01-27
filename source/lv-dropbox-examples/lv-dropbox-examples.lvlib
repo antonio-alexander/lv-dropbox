@@ -15,14 +15,14 @@
 		<Item Name="_globals" Type="Folder">
 			<Item Name="fg_event_auth.vi" Type="VI" URL="../private/_globals/fg_event_auth.vi"/>
 		</Item>
-		<Item Name="_subvis" Type="Folder"/>
+		<Item Name="_subvis" Type="Folder">
+			<Item Name="register_for_event_auth.vi" Type="VI" URL="../private/_subvis/register_for_event_auth.vi"/>
+		</Item>
 	</Item>
 	<Item Name="public" Type="Folder">
 		<Item Name="_controls" Type="Folder"/>
 		<Item Name="_globals" Type="Folder"/>
-		<Item Name="_subvis" Type="Folder">
-			<Item Name="register_for_event_auth.vi" Type="VI" URL="../public/_subvis/register_for_event_auth.vi"/>
-		</Item>
+		<Item Name="_subvis" Type="Folder"/>
 		<Item Name="example_01_authorization.vi" Type="VI" URL="../public/example_01_authorization.vi"/>
 	</Item>
 </Library>
