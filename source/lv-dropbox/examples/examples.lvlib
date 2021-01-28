@@ -1,5 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Library LVVersion="15008000">
+	<Property Name="NI.Lib.ContainingLib" Type="Str">lv-dropbox.lvlib</Property>
+	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../lv-dropbox.lvlib</Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*$!!!*Q(C=\&gt;3R&lt;?-Q'-8RF_!-8/M.$KZS^&lt;?#G[48#F`P;^SG^!)JXA"OP%(A&amp;4ZE![`A&amp;:S`;-9)D,OIO1!J1I;+`#C30V/SJ&amp;:_3D^UGCKT$QP^\:KLQ[S&gt;D85]T0ZV?.&gt;`.=HF\WL5\#`D,Q0/`&gt;@L4`CHCDYMX`X@`6_\@`LR@JT_%8ROE7[;F&amp;9UUZ)7\&gt;O&gt;CLT)C\T)C\T)47ZSEZP=Z#:0]C20]C20]C10]C!0]C!0]C"PF6TE)B=ZOV)M8CR54&amp;J-5&amp;Q-2=7B]"3?QF.Y_+D#5XA+4_%J0&amp;SCQF.Y#E`B+4Q-5_%J0)7H]"1?JGK3;J5=4_&amp;B?BG0]2C0]2A03]JY$-!M:C9WE]#1[41HRG-]RM/JD-&gt;YD-&gt;YD)&gt;O'9`R')`R'!^$WK[Y;=:+DI&gt;JF(A34_**0)G(K:6Y%E`C34S*B_75?"*0AEA74#;(I'21=E(S)@%E(PYJ]33?R*.Y%A^&gt;\1ZFWZF2-V:S0)%H]!3?Q".YG%+"*`!%HM!4?*B7A3@Q"*\!%XB93I%H]!3?!")MSP)+*AM'"B=&amp;1?$BLTUNU?[3GS2;\4`.]Y/K`A#K0VDK$YT[A["_A^6PH0I.5&gt;^I^1V5XRDV,[T_2&gt;3"[AOL4[B_I9Y=$\1^&lt;5@&lt;U.;UA&lt;;E,7DT=?B`PP"Y0/JQ/'C`XWOXWWGTW7C^8GM9"CW83SU7#]XH]]P&lt;[B@V8'\?XEO0H$_`L*[WPR_'\=O@__X&gt;Q`"]NXI;]\@_TWDH^^*8?$@K6K&gt;XLXHW["55N'25!!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">352354304</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
@@ -20,9 +22,12 @@
 		</Item>
 	</Item>
 	<Item Name="public" Type="Folder">
+		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Item Name="_controls" Type="Folder"/>
 		<Item Name="_globals" Type="Folder"/>
-		<Item Name="_subvis" Type="Folder"/>
+		<Item Name="_subvis" Type="Folder">
+			<Item Name="event_generate_auth.vi" Type="VI" URL="../public/_subvis/event_generate_auth.vi"/>
+		</Item>
 		<Item Name="example_01_authorization.vi" Type="VI" URL="../public/example_01_authorization.vi"/>
 	</Item>
 </Library>
