@@ -18,5 +18,6 @@
 
 # Deplyoment, distribution and build files
 builds
-distribution
+distribution/vipm/*.vip
+distribution/working/*
 source/data/bin/*.*
