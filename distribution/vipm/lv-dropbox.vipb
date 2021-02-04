@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2021-01-21 23:30:48" Modified_Date="2021-01-28 18:24:59" Creator="noobius" Comments="" ID="c2e59d1ed72869465c0a3d75956f70c3">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2021-01-21 23:30:48" Modified_Date="2021-02-03 18:50:47" Creator="noobius" Comments="" ID="5663c1a24ecfd1618cd06c26b7345d28">
   <Library_General_Settings>
     <Package_File_Name>antonio_alexander_lib_lv_dropbox</Package_File_Name>
-    <Library_Version>0.9.0.6</Library_Version>
+    <Library_Version>0.9.0.8</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>f:\github.com\antonio-alexander\lv-dropbox\distribution\working\lv-dropbox</Library_Source_Folder>
     <Library_Output_Folder>f:\github.com\antonio-alexander\lv-dropbox\distribution\vipm</Library_Output_Folder>
@@ -241,7 +241,7 @@
         <Path>f:\github.com\antonio-alexander\lv-dropbox\distribution\working\lv-dropbox\public</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>7210E3B4E3BB0056336C8AFDB8D4AC69</GUID>
+      <GUID>EBB7BCCAEF588F32C228FC599340B073</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -262,7 +262,7 @@
         <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
         <Synchronize_Directory_Path>examples</Synchronize_Directory_Path>
       </Synchronization_Info>
-      <GUID>AAE84AAEAB2FC07ED504C9F44487F137</GUID>
+      <GUID>4268087DACEB69C41918E0A4CD4C6994</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -325,7 +325,7 @@
         <Path>f:\github.com\antonio-alexander\lv-dropbox\distribution\working\lv-dropbox\private\_subvis\error_handler.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A089F73C2EC0DE0F7B403781068FB3F0</GUID>
+      <GUID>14DBB8F007845894FFD84E46239204BF</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -374,7 +374,7 @@
         <Path>f:\github.com\antonio-alexander\lv-dropbox\distribution\working\lv-dropbox\public\api</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B94CD22A6A539C09FF83874FDA52B3E0</GUID>
+      <GUID>8A4FE975A167F9657C4534B88E33EBEC</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -409,7 +409,7 @@
         <Path>f:\github.com\antonio-alexander\lv-dropbox\distribution\working\lv-dropbox\private\cryptography\sha256.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4306033DF9D7CE3EDD55A2A5347992F2</GUID>
+      <GUID>1CEE5DF242D33A792DB3E1373E6345F4</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -458,7 +458,7 @@
         <Path>f:\github.com\antonio-alexander\lv-dropbox\distribution\working\lv-dropbox\private\dependencies\base64_encode.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F2FAB551D986FC2C624DFED2EF7B147E</GUID>
+      <GUID>C584AAD822F627D1487285F7BBE42E03</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -479,7 +479,7 @@
         <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
         <Synchronize_Directory_Path>public\advanced</Synchronize_Directory_Path>
       </Synchronization_Info>
-      <GUID>6778860F509653A56916DC570E09D493</GUID>
+      <GUID>A44C3DED64E9CA619B295C58A43D41EE</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -514,7 +514,7 @@
         <Path>f:\github.com\antonio-alexander\lv-dropbox\distribution\working\lv-dropbox\public\api\v2</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>1809C277805741D56A0A1A2F2EAE511E</GUID>
+      <GUID>FA21322D2B2C830F763472846999E72C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>7</Parent_Palette_Index>
@@ -577,7 +577,7 @@
         <Path>f:\github.com\antonio-alexander\lv-dropbox\distribution\working\lv-dropbox\public\api\v2\public</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0692640DA0C66337C826F54685323FD6</GUID>
+      <GUID>C0408F67A0D2CAA832502D8751A86DD6</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>8</Parent_Palette_Index>
@@ -640,7 +640,7 @@
         <Path>f:\github.com\antonio-alexander\lv-dropbox\distribution\working\lv-dropbox\public\api\v2\examples\example_03_info.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>DB247580173A4BC9F1FCC073DE4667E3</GUID>
+      <GUID>1E406115D7B704A4A049C2C3CF815DD7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>8</Parent_Palette_Index>
@@ -675,7 +675,7 @@
         <Path>f:\github.com\antonio-alexander\lv-dropbox\distribution\working\lv-dropbox\private\_subvis\error_handler.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>945DABA0324805F426CBEDE4B62B8562</GUID>
+      <GUID>D1EB3923DC5D83798A47EDB93FFD82D8</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>8</Parent_Palette_Index>
@@ -741,20 +741,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>download.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>4</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>f:\github.com\antonio-alexander\lv-dropbox\distribution\working\lv-dropbox\public\api\v2\public\download.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>get_space_usage.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -778,20 +764,6 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>f:\github.com\antonio-alexander\lv-dropbox\distribution\working\lv-dropbox\public\api\v2\public\list_folder.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>upload.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>1</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>f:\github.com\antonio-alexander\lv-dropbox\distribution\working\lv-dropbox\public\api\v2\public\upload.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -836,7 +808,7 @@
         <Path>f:\github.com\antonio-alexander\lv-dropbox\distribution\working\lv-dropbox\public\api\v2\public\upload_session_start.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D34CC448C180893ED13EF0B247E34963</GUID>
+      <GUID>F6F025AF4F5C7A94A70D23B96B2166A4</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>11</Parent_Palette_Index>
@@ -860,48 +832,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>create_shared_link-basic.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>1</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>f:\github.com\antonio-alexander\lv-dropbox\distribution\working\lv-dropbox\public\api\v2\public\advanced\create_shared_link-basic.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>create_shared_link-with_settings.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>f:\github.com\antonio-alexander\lv-dropbox\distribution\working\lv-dropbox\public\api\v2\public\advanced\create_shared_link-with_settings.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>download-archive.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>3</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>f:\github.com\antonio-alexander\lv-dropbox\distribution\working\lv-dropbox\public\api\v2\public\advanced\download-archive.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>download-file.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -911,48 +841,6 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>f:\github.com\antonio-alexander\lv-dropbox\distribution\working\lv-dropbox\public\api\v2\public\advanced\download-file.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>list_folder-advanced.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>5</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>f:\github.com\antonio-alexander\lv-dropbox\distribution\working\lv-dropbox\public\api\v2\public\advanced\list_folder-advanced.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>list_folder-basic.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>6</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>f:\github.com\antonio-alexander\lv-dropbox\distribution\working\lv-dropbox\public\api\v2\public\advanced\list_folder-basic.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>upload-file.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>1</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>f:\github.com\antonio-alexander\lv-dropbox\distribution\working\lv-dropbox\public\api\v2\public\advanced\upload-file.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -969,7 +857,7 @@
         <Path>f:\github.com\antonio-alexander\lv-dropbox\distribution\working\lv-dropbox\public\api\v2\public\advanced\upload-session.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B889337EB319182DE8BE11871167FA24</GUID>
+      <GUID>0DB87BF4DF7E6002299D5581EFF16DF8</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -990,7 +878,7 @@
         <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
         <Synchronize_Directory_Path>..</Synchronize_Directory_Path>
       </Synchronization_Info>
-      <GUID>04F276E32BDA2BC70D72359F17477492</GUID>
+      <GUID>01C369718643B92BB6483214B6BB59F9</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
